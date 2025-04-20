@@ -1,4 +1,4 @@
-# Zoom Transcript Summarizer + Gmail Assignment Notifier 🚀
+# Zoom Classroom Buddy
 
 This project automates the processing of lecture transcripts. It fetches Zoom bot transcripts from the **Attendee API**, summarizes them using **Gemini 1.5 Pro**, and delivers the output to both a **Notion page** and through **Gmail notifications** for upcoming assignments.
 
