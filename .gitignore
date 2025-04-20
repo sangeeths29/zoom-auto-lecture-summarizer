@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+.env.*
+
+# OS
+.DS_Store
+
+# Jupyter & VS Code
+.ipynb_checkpoints/
+.vscode/
+
+# Environment + API Secrets
+.env
