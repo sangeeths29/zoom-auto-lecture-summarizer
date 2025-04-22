@@ -73,3 +73,4 @@ Key Details:
 
 - To use the Gmail API, the `token.json` will be created after first-time authentication using your `credentials.json`.
 - You can switch between using **live Attendee API transcripts** or **hardcoded transcript samples**.
+_ This Zoom Classmate buddy can scalable to Industry Business needs, it automates the many HR, managers, meetings Tasks.
