@@ -4,7 +4,7 @@ This project automates the processing of lecture transcripts. It fetches Zoom bo
 
 ---
 
-## 🔧 Features
+## Features
 
 - Fetches transcript from Attendee bot API  
 - Uses CrewAI with Gemini Pro (Google GenAI) to generate summaries  
